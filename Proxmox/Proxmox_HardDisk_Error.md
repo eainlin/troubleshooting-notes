@@ -1,4 +1,6 @@
 # 🛠️ LVM Thin Pool Repair – Step by Step Guide
+### Date: 11-Jun-2026
+### Author: Htoo Eain Lin
 
 This guide explains how to **safely clean, repair, and re-activate an LVM thin pool**.
 

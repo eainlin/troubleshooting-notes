@@ -1,4 +1,6 @@
 # Proxmox VM Removal Guide When Storage is Missing
+### Date: 11-Jun-2026
+### Author: Htoo Eain Lin
 
 ## Issue
 

@@ -1,4 +1,6 @@
 ## Check the remaining days with the powershell
+### Date: 11-Jun-2026
+### Author: Htoo Eain Lin
 
 ```sh
 PS C:\Users\Administrator> (invoke-cimmethod -inputobject (get-ciminstance -namespace root/CIMV2/TerminalServices -classname Win32_TerminalServiceSetting) -methodname GetGracePeriodDays).DaysLeft

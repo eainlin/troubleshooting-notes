@@ -1,4 +1,6 @@
 # ESXi SSL Certificate Renewal Guide
+### Date: 11-Jun-2026
+### Author: Htoo Eain Lin
 
 ## 1. Connect to ESXi Host via SSH
 

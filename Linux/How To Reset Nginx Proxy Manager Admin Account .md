@@ -1,4 +1,6 @@
 # Docker MySQL User Management Guide
+## Date: 11-Jun-2026
+## Author: Htoo Eain Lin
 
 ## 1. Login to Database Container
 

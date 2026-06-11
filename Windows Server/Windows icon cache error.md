@@ -1,4 +1,6 @@
 # Windows Icon Cache Reset Script
+### Date: 11-Jun-2026
+### Author: Htoo Eain Lin
 
 This PowerShell script stops Explorer, clears icon and thumbnail caches, and restarts Explorer.
 

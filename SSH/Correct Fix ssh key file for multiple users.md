@@ -1,4 +1,6 @@
 # SSH Authorized Keys Configuration Guide
+### Date: 11-Jun-2026
+### Author: Htoo Eain Lin
 
 ## 1. Edit SSH Configuration
 
